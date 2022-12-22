@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LukasMindeli
+- 👋 Hi, I’m @LukaKiknavelidze
 - 👀 I’m interested in JS, HTML, CSS, C#.
 - 🌱 I’m currently learning C# and HTML.
 - 💞️ I’m looking to collaborate on ...
